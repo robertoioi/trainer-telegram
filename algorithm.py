@@ -1,4 +1,4 @@
-# FIRST VERSION OF CODE - NEEDS A CLEAN!
+# FIRST VERSION OF CODE - NEEDS A CLEAN! asdfasdf
 
 import urllib.request
 DataURL='https://raw.githubusercontent.com/robertoioi/trainer-telegram/main/Programma%20Maratona%20di%20Roma.CSV'
